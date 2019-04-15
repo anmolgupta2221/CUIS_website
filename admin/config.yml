@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: anik545/website_jekyll_cms
-
+  name: git-gateway
 
 
 media_folder: "img/uploads" # Media files will be stored in the repo under static/images/uploads
