@@ -22,21 +22,21 @@ collections:
         name: 'committee'
         file: 'committee.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Committee' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'committee' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Charities'
         name: 'charities'
         file: 'charities.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Charities' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'charities' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Sponsors'
         name: 'sponsors'
         file: 'sponsors.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Sponsors' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'sponsors' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       
