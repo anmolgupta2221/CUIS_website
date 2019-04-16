@@ -9,12 +9,34 @@ collections:
   - name: 'pages'
     label: 'Pages'
     editor:
-      preview: false
+      preview: true
     files:
       - label: 'Home Page'
         name: 'index'
         file: 'index.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Committee'
+        name: 'committee'
+        file: 'committee.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Charities'
+        name: 'charities'
+        file: 'charities.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Sponsors'
+        name: 'sponsors'
+        file: 'sponsors.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
+          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      
