@@ -717,6 +717,18 @@ CSEP and CUIS are proud to co-host Bina Agarwal for a talk on Gender Inequality 
 	<script type="text/javascript" src="js/homepage.js"></script>
 
 	</div>
+
+	<script>
+		if (window.netlifyIdentity) {
+		  window.netlifyIdentity.on("init", user => {
+			if (!user) {
+			  window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+			  });
+			}
+		  });
+		}
+	  </script>
 	<!-- /.main-page-wrapper -->		
 </body>
 
