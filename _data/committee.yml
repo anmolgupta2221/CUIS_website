@@ -1,84 +1,72 @@
-root:
-  president:
-    name: Sanchit Agrawal
-    image: img/committee/sanchit.jpg
+members:
+  - name: Sanchit Agrawal
+    image: img/commitee/sanchit.jpg
     college: Christ's
     subject: Economics
     position: President
     crsid: sa868
-  vp:
-    name: Triveni Patel
-    image: img/committee/triveni.jpg
+  - name: Triveni Patel
+    image: img/commitee/triveni.jpg
     college: Trinity Hall
     subject: Theology
     position: Vice President
     crsid: tp435
-  treasurer:
-    name: Anuj Patel
-    image: img/committee/anuj.jpg
+  - name: Anuj Patel
+    image: img/commitee/anuj.jpg
     college: Trinity
     subject: Economics
     position: Treasurer
     crsid: ayjp3
-  secretary:
-    name: Shirali Patel
-    image: img/committee/shirali.jpg
+  - name: Shirali Patel
+    image: img/commitee/shirali.jpg
     college: Churchill
-    subject: Medicine 
+    subject: Medicine
     position: Secretary
     crsid: sp833
-  ents1:
-    name: Jai Shende
-    image: img/committee/jai.jpg
-    college: 
-    subject: 
+  - name: Jai Shende
+    image: img/commitee/jai.jpg
+    college:
+    subject:
     position: Ents
-    crsid: 
-  ents2:
-    name: Sahil Baid
-    image: img/committee/sahil.jpg
+    crsid:
+  - name: Sahil Baid
+    image: img/commitee/sahil.jpg
     college: St Catharine's
-    subject: 
+    subject:
     position: Ents
-    crsid: 
-  publicity:
-    name: Aakash Mohindra
-    image: img/committee/aakash.jpg
+    crsid:
+  - name: Aakash Mohindra
+    image: img/commitee/aakash.jpg
     college: Downing
     subject: Law
     position: Publicity
     crsid: asvkm2
-  sponsorship:
-    name: Paramvir Khera
-    image: img/committee/paramvir.jpg
-    college: Sidney Sussex 
+  - name: Paramvir Khera
+    image: img/commitee/paramvir.jpg
+    college: Sidney Sussex
     subject: Economics
     position: Sponsorship
     crsid: psk32
-  logistics:
-    name: Kirushanth Sathiyamoorthy
-    image: img/committee/kirushanth.jpg
+  - name: Kirushanth Sathiyamoorthy
+    image: img/commitee/kirushanth.jpg
     college: Downing
     subject: Medicine
     position: Logistics
     crsid: ks829
-  culture:
-    name: Ilakya Prabhakar
-    image: img/committee/ilakya.jpg
-    college: 
-    subject: 
+  - name: Ilakya Prabhakar
+    image: img/commitee/ilakya.jpg
+    college:
+    subject:
     position: Culture & Education
-    crsid: 
-  sports:
-    name: Kelvir Thandi
-    image: img/committee/kelvir.jpg
+    crsid:
+  - name: Kelvir Thandi
+    image: img/commitee/kelvir.jpg
     college: Churchill
     subject: Natural Sciences
     position: Sports
     crsid: kt449
-  webmaster:
-    name: Anik Roy
-    image: img/committee/anik.jpg
+  - name: Anik Roy
+    image: img/commitee/anik.jpg
     college: Christ's
     subject: CompSci
     position: Webmaster

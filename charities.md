@@ -17,4 +17,4 @@ The Cambridge University India Society is dedicated in its aim to fundraise for
  \- [The Lymphoma Association](http://www.lymphomas.org.uk)
 
 {:style="margin: 15px 0 40px 0"}
-If you have any suggestions or would like to find out more information, please email our [President]({{ site.data.committee.root.president.crsid }}), who will be more than happy to answer any questions you may have.
+If you have any suggestions or would like to find out more information, please email our [President]({{ site.data.committe.president.crsid }}), who will be more than happy to answer any questions you may have.

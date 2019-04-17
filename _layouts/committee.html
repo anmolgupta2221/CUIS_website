@@ -2,8 +2,7 @@
 layout: other_page
 ---
 <div class="clear-fix team-member-wrapper">
-	{% for p in site.data.committee.root %}
-	{% assign d=p[1] %}
-	{% include member.html person=d %}
+	{% for p in site.data.committe.members %}
+	{% include member.html person=p %}
 	{% endfor %}
 </div>
