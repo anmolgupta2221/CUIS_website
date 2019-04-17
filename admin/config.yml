@@ -16,27 +16,44 @@ collections:
         file: 'index.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'Home' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'index' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'index' }
+          - { label: 'Banner', name: banner, widget: 'image'}
+          - { label: 'About Us', name: about_us_text, widget: 'markdown'}
+          - { label: 'Join Us', name: join_us_text, widget: 'markdown'}
+          - { label: 'Constitution', name: constitution, widget: 'file'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Committee'
         name: 'committee'
         file: 'committee.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'Committee' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'committee' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'other_page' }
+          - { label: 'BG-image', name: 'bg-image', widget: 'image' }
+          - { label: 'Header 1', name: 'bg-header', widget: 'string' }
+          - { label: 'Header 2', name: 'post_heading', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Charities'
         name: 'charities'
         file: 'charities.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Charities' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'charities' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Committee' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'other_page' }
+          - { label: 'BG-image', name: 'bg-image', widget: 'image' }
+          - { label: 'Header 1', name: 'bg-header', widget: 'string' }
+          - { label: 'Header 2', name: 'post_heading', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Sponsors'
         name: 'sponsors'
         file: 'sponsors.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Sponsors' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'sponsors' }
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'Committee' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'other_page' }
+          - { label: 'BG-image', name: 'bg-image', widget: 'image' }
+          - { label: 'Header 1', name: 'bg-header', widget: 'string' }
+          - { label: 'Header 2', name: 'post_heading', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      
+
+#  - name: committee
+
+#  - name: sponsors
+ 
