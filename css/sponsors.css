@@ -1,0 +1,19 @@
+.sponsorimg {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sponsorbox {
+    border-width: 1px;
+    border-color: gray;
+    height: 300px;
+    border-style: solid;
+}
+
+p {
+    font-size: 130%
+}

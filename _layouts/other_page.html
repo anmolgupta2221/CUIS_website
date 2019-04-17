@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section class="inner-page-banner" style="background:url({{ page.bg-image }}) no-repeat center center;  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; ">
+    <div class="opacity">
+        <div class="container">
+            <h2>{{ page.header }}</h2>
+        </div> <!-- /.container -->
+    </div> <!-- /.opacity -->
+</section> <!-- /.inner-page-banner -->
+
+<article class="blog-details-page">
+    <div class="container" id="team-section">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 p-fix">
+            <div class="blog-details-post-wrapper">
+                <div class="post-heading">
+                    <h4 style="margin-top: 0px">{{ page.post_heading }}</h4>
+                </div> <!-- /.post-heading -->
+                {{ content }}
+            </div> <!-- /.blog-details-post-wrapper -->
+        </div> <!-- /.col- -->
+
+    </div> <!-- /.container -->
+</article>

@@ -1,0 +1,19 @@
+<div class="float-left">
+    <div class="single-team-member">
+        <div class="img"><img src="{{ include.person.image }}" alt="Image">
+            <div class="opacity tran4s">
+                <h4>{{ include.person.name }}</h4><span>{{ include.person.position }}</span>
+                <p>{{ include.person.college }}, {{ include.person.subject }} </p>
+            </div>
+        </div> <!-- /.img -->
+        <div class="member-name">
+            <h6>{{ include.person.name }}</h6>
+            <p>{{ include.person.position }}</p>
+            <ul>
+                <!--li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li-->
+                <li><a href="mailto:{{ include.person.crsid }}@cam.ac.uk}" class="tran3s round-border"><i
+                            class="fa fa-envelope" aria-hidden="true"></i></a></li>
+            </ul>
+        </div> <!-- /.member-name -->
+    </div> <!-- /.single-team-member -->
+</div> <!-- /float-left -->
