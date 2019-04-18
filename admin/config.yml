@@ -80,5 +80,37 @@ collections:
           widget: 'list'
           fields:
             - {label: Name, name: name, widget: string}
-            - {label: Name, name: link, widget: string}
-            - {label: Image, name: image, widget: image}  
+            - {label: Link, name: link, widget: string}
+            - {label: Image, name: image, widget: image}
+
+  - name: settings
+    label: Settings
+    files:
+      - label: 'Site wide links/settings'
+        name: config
+        file: _config.yml
+        fields:
+          - {label: 'Favicon', name: favicon, widget: image}        
+          - {label: 'Facebook Link', name: facebook, widget: string}
+          - {label: 'Facebook Events Link', name: facebook_events, widget: string}
+          - {label: 'Instagram Link', name: instagram, widget: string}
+          - {label: 'Indiasoc Email', name: email, widget: string}
+          - {label: 'Mailing List Link', name: mailing_list, widget: string}
+          - {label: 'President Email', name: pres_email, widget: string}
+          - {label: 'Treasurer Email', name: treasurer_email, widget: string}
+          - {label: 'Ents Officers Email', name: ents_email, widget: string}
+          - {label: 'Sponsorship Email', name: sponsorship_email, widget: string}
+          - {label: 'Number of Events on Front Page', name: no_events, widget: number}
+          
+  - name: 'events'
+    label: 'Events'
+    folder: '_events/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Name', name: 'event_title', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Facebook Link', name: 'fb_link', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }   
+

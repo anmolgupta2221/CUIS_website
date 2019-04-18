@@ -14,7 +14,10 @@ treasurer_email: india@cusu.cam.ac.uk
 ents_email: india@cusu.cam.ac.uk
 sponsorship_email: india@cusu.cam.ac.uk
 
+no_events: 6
+
+favicon: img/favicon.png
 
 collections:
-  - committee
-  - sponsors
+  events:
+    output: false
