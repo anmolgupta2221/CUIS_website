@@ -19,5 +19,4 @@ no_events: 6
 favicon: img/favicon.png
 
 collections:
-  events:
-    output: false
+  - events

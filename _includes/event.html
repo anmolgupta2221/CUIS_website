@@ -1,29 +1,27 @@
-<div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-12">
-            <div class="mix grid-item upcoming all">
-                <div class="single-img">
-                    <img src="{{ include.event.image }}" alt="{{ include.event.event_title }}"
-                        style="width: 540px;height: 720px;">
-                    <div class="opacity">
-                        <div class="border-shape">
-                            <div>
-                                <div>
-                                    <h6>
-                                        <a href="{{ include.event.fb_link }}">{{ include.event.event_title }}</a>
-                                    </h6>
-                                    <ul>
-                                        <li>{{include.event.description}}
+<div class="col-lg-6 col-md-6 col-sm-12">
+    <div class="mix grid-item upcoming all">
+        <div class="single-img">
+            <img src="{{ include.event.image }}" alt="{{ include.event.event_title }}">
+            <div class="opacity">
+                <div class="border-shape">
+                    <div>
+                        <div>
+                            <h6>
+                                <a href="{{ include.event.fb_link }}">{{ include.event.event_title }}</a>
+                            </h6>
+                            <ul>
+                                <li>{{include.event.description}}
 
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                                </li>
+                            </ul>
                         </div>
-                        <!-- /.border-shape -->
                     </div>
-                    <!-- /.opacity -->
                 </div>
-                <!-- /.single-img -->
+                <!-- /.border-shape -->
             </div>
-            <!-- /.grid-item -->
+            <!-- /.opacity -->
         </div>
+        <!-- /.single-img -->
+    </div>
+    <!-- /.grid-item -->
+</div>
