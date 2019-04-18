@@ -109,7 +109,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Name', name: 'event_title', widget: 'string' }
+      - { label: 'Full Title', name: 'event_title', widget: 'string' }
+      - { label: 'Short Name', name: 'name', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Facebook Link', name: 'fb_link', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }   
