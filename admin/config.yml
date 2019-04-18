@@ -57,7 +57,7 @@ collections:
       name: 'committee'
       file: '_data/committee.yml'
       fields:
-        - label: 'Committe Members'
+        - label: 'Committee Members'
           name: members
           widget: 'list'
           fields:
@@ -68,6 +68,17 @@ collections:
             - {label: Position, name: position, widget: string}
             - {label: crsid, name: crsid, widget: string}
             
-
-#  - name: sponsors
- 
+  - name: sponsors
+    label: Sponsors
+    files:
+    - label: 'Sponsors'
+      name: sponsors
+      file: '_data/sponsors.yml'
+      fields:
+        - label: 'Sponsors'
+          name: sponsors
+          widget: 'list'
+          fields:
+            - {label: Name, name: name, widget: string}
+            - {label: Name, name: link, widget: string}
+            - {label: Image, name: image, widget: image}  

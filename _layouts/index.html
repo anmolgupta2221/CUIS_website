@@ -483,21 +483,11 @@ script: |
 	<div class="container">
 		<!-- TODO: replace with basic bootstrap carousel -->
 		<div id="partner_logo" class="owl-carousel owl-theme">
+			{% for s in site.data.sponsors.sponsors %}
 			<div class="item">
-				<img src="img/sponsors/1.png" alt="logo">
+				<img src="{{ s.image }}" alt="{{ s.name }}">
 			</div>
-			<div class="item">
-				<img src="img/sponsors/2.gif" alt="logo">
-			</div>
-			<div class="item">
-				<img src="img/sponsors/3.png" alt="logo">
-			</div>
-			<div class="item">
-				<img src="img/sponsors/4.png" alt="logo">
-			</div>
-			<div class="item">
-				<img src="img/sponsors/5.jpg" alt="logo">
-			</div>
+			{% endfor %}
 		</div>
 		<!-- End .partner_logo -->
 	</div>
@@ -524,7 +514,7 @@ script: |
 				<a style="font-weight:bold" href="committee.html">committee</a> member.</p>
 
 			<p>Alternatively join our
-				<a style="font-weight:bold" href="join.html">mailing list</a> to be kept up to date with all our
+				<a style="font-weight:bold" href="{{ site.mailing_list }}">mailing list</a> to be kept up to date with all our
 				info.</p>
 			<p>
 				<br>
@@ -558,7 +548,7 @@ script: |
 				<!-- /.single-input -->
 				<textarea id="message" placeholder="Write Message" name="message"></textarea>
 
-				<button id="contact_form_submit" class="tran3s p-color-bg">Send Message</button>
+				<input type='submit' id="contact_form_submit" class="tran3s p-color-bg">Send Message</button>
 			</form>
 
 

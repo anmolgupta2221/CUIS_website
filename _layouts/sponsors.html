@@ -1,0 +1,8 @@
+---
+layout: other_page
+---
+{% for s in site.data.sponsors.sponsors %}
+<div class="col-lg-4 sponsorbox">
+    <img class="sponsorimg" src="{{ s.image }}" alt="{{ s.name }}">
+</div>
+{% endfor %}

@@ -1,13 +1,18 @@
-root:
+sponsors:
  - name: asiana
+   link: \-
    image: img/1.png
  - name: goldstar
+   link: \-
    image: img/2.gif
  - name: rass
+   link: \-
    image: img/3.png
  - name: teachfirst
+   link: \-
    image: img/4.png
  - name: studypool
+   link: \-
    image: img/5.jpg
 
  
