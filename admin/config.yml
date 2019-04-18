@@ -49,6 +49,7 @@ collections:
           - { label: 'BG-image', name: 'bg-image', widget: 'image' }
           - { label: 'Header 1', name: 'header', widget: 'string' }
           - { label: 'Header 2', name: 'post_heading', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'committee'
     label: 'Committee'
