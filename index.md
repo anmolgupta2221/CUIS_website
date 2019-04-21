@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Cambridge University India Society
 layout: index
 banner: img/slider/banner.jpg
 about_us_text: >-
