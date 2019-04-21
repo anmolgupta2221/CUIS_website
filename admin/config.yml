@@ -94,7 +94,7 @@ collections:
           - {label: 'Facebook Link', name: facebook, widget: string}
           - {label: 'Facebook Events Link', name: facebook_events, widget: string}
           - {label: 'Instagram Link', name: instagram, widget: string}
-          - {label: 'Indiasoc Email', name: email, widget: string}
+          - {label: 'Indiasoc Email', name: indiasoc_email, widget: string}
           - {label: 'Mailing List Link', name: mailing_list, widget: string}
           - {label: 'President Email', name: pres_email, widget: string}
           - {label: 'Treasurer Email', name: treasurer_email, widget: string}
