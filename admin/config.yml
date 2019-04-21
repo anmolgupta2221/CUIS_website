@@ -90,6 +90,10 @@ collections:
         name: config
         file: _config.yml
         fields:
+          - {label: 'Site Name', name: name, widget: hidden, default: "Cambridge University India Society"}
+          - {label: 'Author', name: author, widget: hidden, default: "Anik Roy"}
+          - {label: 'Author email', name: email, widget: hidden, default: anik545@gmail.com}
+          - {label: 'Exclude', name: exclude, widget: hidden, default: ['README.md', 'Gemfile.lock', 'Gemfile', vendor]}
           - {label: 'Favicon', name: favicon, widget: image}        
           - {label: 'Facebook Link', name: facebook, widget: string}
           - {label: 'Facebook Events Link', name: facebook_events, widget: string}
@@ -101,7 +105,8 @@ collections:
           - {label: 'Ents Officers Email', name: ents_email, widget: string}
           - {label: 'Sponsorship Email', name: sponsorship_email, widget: string}
           - {label: 'Number of Events on Front Page', name: no_events, widget: number}
-          
+          - {label: 'Collections', name: collections, widget: hidden, default: ['events']}
+
   - name: 'events'
     label: 'Events'
     folder: '_events/'
