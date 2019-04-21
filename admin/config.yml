@@ -19,7 +19,6 @@ collections:
           - { label: 'About Us', name: about_us_text, widget: 'markdown'}
           - { label: 'Join Us', name: join_us_text, widget: 'markdown'}
           - { label: 'Constitution', name: constitution, widget: 'file'}
-          - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Committee'
         name: 'committee'
         file: 'committee.md'
