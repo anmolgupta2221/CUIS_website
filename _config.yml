@@ -2,6 +2,8 @@ name: Cambridge University India Society
 author: Anik Roy
 email: anik545@gmail.com
 
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', vendor]
+
 # links
 facebook: https://www.facebook.com/indiasoc
 facebook_events: https://www.facebook.com/pg/indiasoc/events
