@@ -1,72 +1,72 @@
 members:
   - name: Sanchit Agrawal
-    image: img/commitee/sanchit.jpg
+    image: img/committee/sanchit.jpg
     college: Christ's
     subject: Economics
     position: President
     crsid: sa868
   - name: Triveni Patel
-    image: img/commitee/triveni.jpg
+    image: img/committee/triveni.jpg
     college: Trinity Hall
     subject: Theology
     position: Vice President
     crsid: tp435
   - name: Anuj Patel
-    image: img/commitee/anuj.jpg
+    image: img/committee/anuj.jpg
     college: Trinity
     subject: Economics
     position: Treasurer
     crsid: ayjp3
   - name: Shirali Patel
-    image: img/commitee/shirali.jpg
+    image: img/committee/shirali.jpg
     college: Churchill
     subject: Medicine
     position: Secretary
     crsid: sp833
   - name: Jai Shende
-    image: img/commitee/jai.jpg
+    image: img/committee/jai.jpg
     college:
     subject:
     position: Ents
     crsid:
   - name: Sahil Baid
-    image: img/commitee/sahil.jpg
+    image: img/committee/sahil.jpg
     college: St Catharine's
     subject:
     position: Ents
     crsid:
   - name: Aakash Mohindra
-    image: img/commitee/aakash.jpg
+    image: img/committee/aakash.jpg
     college: Downing
     subject: Law
     position: Publicity
     crsid: asvkm2
   - name: Paramvir Khera
-    image: img/commitee/paramvir.jpg
+    image: img/committee/paramvir.jpg
     college: Sidney Sussex
     subject: Economics
     position: Sponsorship
     crsid: psk32
   - name: Kirushanth Sathiyamoorthy
-    image: img/commitee/kirushanth.jpg
+    image: img/committee/kirushanth.jpg
     college: Downing
     subject: Medicine
     position: Logistics
     crsid: ks829
   - name: Ilakya Prabhakar
-    image: img/commitee/ilakya.jpg
+    image: img/committee/ilakya.jpg
     college:
     subject:
     position: Culture & Education
     crsid:
   - name: Kelvir Thandi
-    image: img/commitee/kelvir.jpg
+    image: img/committee/kelvir.jpg
     college: Churchill
     subject: Natural Sciences
     position: Sports
     crsid: kt449
   - name: Anik Roy
-    image: img/commitee/anik.jpg
+    image: img/committee/anik.jpg
     college: Christ's
     subject: CompSci
     position: Webmaster
