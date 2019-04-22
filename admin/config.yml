@@ -51,7 +51,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'committee'
-    label: 'Committee'
+    label: 'Committee Data'
     files:
     - label: 'Committee'
       name: 'committee'
@@ -69,7 +69,7 @@ collections:
             - {label: crsid, name: crsid, widget: string}
             
   - name: sponsors
-    label: Sponsors
+    label: 'Sponsors Data'
     files:
     - label: 'Sponsors'
       name: sponsors
@@ -108,7 +108,7 @@ collections:
           - {label: 'Collections', name: collections, widget: hidden, default: ['events']}
 
   - name: 'events'
-    label: 'Events'
+    label: 'Events Data'
     folder: '_events/'
     create: true
     editor:
