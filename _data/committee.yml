@@ -11,18 +11,18 @@ members:
     name: Neelay Sant
     position: Vice-President
     subject: Engineering
-  - college: Gonville & Caius
-    crsid: es790
-    image: /img/eesha.jpeg
-    name: Eesha Sanghrajka
-    position: Treasurer
-    subject: Land Economy
   - college: Murray Edwards
     crsid: ada33
     image: /img/aarushi.jpg
     name: Aarushi Ail
     position: Secretary
     subject: Medicene
+  - college: Gonville & Caius
+    crsid: es790
+    image: /img/eesha.jpeg
+    name: Eesha Sanghrajka
+    position: Treasurer
+    subject: Land Economy
   - college: Gonville & Caius
     crsid: mh957
     image: /img/milan.jpg
