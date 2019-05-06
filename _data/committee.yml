@@ -5,6 +5,12 @@ members:
     name: Suchir Kohli
     position: President
     subject: Economics
+  - college: Gonville & Caius
+    crsid: es790
+    image: /img/eesha.jpeg
+    name: Eesha Sanghrajka
+    position: Treasurer
+    subject: Land Economy
   - college: Murray Edwards
     crsid: ada33
     image: /img/aarushi.jpg
