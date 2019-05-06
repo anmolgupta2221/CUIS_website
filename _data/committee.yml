@@ -1,73 +1,31 @@
 members:
-  - name: Sanchit Agrawal
-    image: img/committee/sanchit.jpg
-    college: Christ's
-    subject: Economics
+  - college: Fitzwilliam
+    crsid: sk994
+    image: /img/suchir-kohli.jpg
+    name: Suchir Kohli
     position: President
-    crsid: sa868
-  - name: Triveni Patel
-    image: img/committee/triveni.jpg
-    college: Trinity Hall
-    subject: Theology
-    position: Vice President
-    crsid: tp435
-  - name: Anuj Patel
-    image: img/committee/anuj.jpg
-    college: Trinity
     subject: Economics
-    position: Treasurer
-    crsid: ayjp3
-  - name: Shirali Patel
-    image: img/committee/shirali.jpg
-    college: Churchill
-    subject: Medicine
+  - college: Murray Edwards
+    crsid: ada33
+    image: /img/aarushi.jpg
+    name: Aarushi Ail
     position: Secretary
-    crsid: sp833
-  - name: Jai Shende
-    image: img/committee/jai.jpg
-    college:
-    subject:
-    position: Ents
-    crsid:
-  - name: Sahil Baid
-    image: img/committee/sahil.jpg
-    college: St Catharine's
-    subject:
-    position: Ents
-    crsid:
-  - name: Aakash Mohindra
-    image: img/committee/aakash.jpg
-    college: Downing
-    subject: Law
-    position: Publicity
-    crsid: asvkm2
-  - name: Paramvir Khera
-    image: img/committee/paramvir.jpg
-    college: Sidney Sussex
-    subject: Economics
-    position: Sponsorship
-    crsid: psk32
-  - name: Kirushanth Sathiyamoorthy
-    image: img/committee/kirushanth.jpg
-    college: Downing
-    subject: Medicine
-    position: Logistics
-    crsid: ks829
-  - name: Ilakya Prabhakar
-    image: img/committee/ilakya.jpg
-    college:
-    subject:
-    position: Culture & Education
-    crsid:
-  - name: Kelvir Thandi
-    image: img/committee/kelvir.jpg
-    college: Churchill
-    subject: Natural Sciences
-    position: Sports
-    crsid: kt449
-  - name: Anik Roy
-    image: img/committee/anik.jpg
-    college: Christ's
-    subject: CompSci
+    subject: Medicene
+  - college: Gonville & Caius
+    crsid: mh957
+    image: /img/img-20190310-wa0021.jpg
+    name: Milan Hirji
     position: Webmaster
-    crsid: ar899
+    subject: Natural Sciences
+  - college: Queens'
+    crsid: dk579
+    image: /img/dhruv.jpg
+    name: Dhruv Kanabar
+    position: Culture and Education Officer
+    subject: Law
+  - college: Gonville & Caius
+    crsid: nb548
+    image: /img/nishant-2.png
+    name: Nishant Bommayya
+    position: Graduate Rep
+    subject: Maths
