@@ -5,6 +5,12 @@ members:
     name: Suchir Kohli
     position: President
     subject: Economics
+  - college: Emmanuel
+    crsid: ns758
+    image: /img/neelay.jpg
+    name: Neelay Sant
+    position: Vice-President
+    subject: Engineering
   - college: Gonville & Caius
     crsid: es790
     image: /img/eesha.jpeg
