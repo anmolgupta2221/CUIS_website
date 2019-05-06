@@ -23,18 +23,18 @@ members:
     name: Aarushi Ail
     position: Secretary
     subject: Medicene
-  - college: Gonville & Caius
-    crsid: mh957
-    image: /img/milan.jpg
-    name: Milan Hirji
-    position: Webmaster
-    subject: Natural Sciences
   - college: Queens'
     crsid: dk579
     image: /img/dhruv.jpg
     name: Dhruv Kanabar
     position: Culture and Education Officer
     subject: Law
+  - college: Gonville & Caius
+    crsid: mh957
+    image: /img/milan.jpg
+    name: Milan Hirji
+    position: Webmaster
+    subject: Natural Sciences
   - college: Gonville & Caius
     crsid: nb548
     image: /img/nishant-2.png
