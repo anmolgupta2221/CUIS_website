@@ -35,3 +35,9 @@ members:
     name: Dhruv Kanabar
     position: Culture and Education Officer
     subject: Law
+  - college: Gonville & Caius
+    crsid: nb548
+    image: /img/nishant-square-1.jpg
+    name: Nishant Bommayya
+    position: Graduate Representative
+    subject: Maths
