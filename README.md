@@ -13,3 +13,5 @@ Run from the root directory:
 bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
+---
+Anik Roy (anik545@gmail.com) 2018
