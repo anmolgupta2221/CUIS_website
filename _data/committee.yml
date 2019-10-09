@@ -47,3 +47,15 @@ members:
     name: Nishant Bommayya
     position: Graduate Officer
     subject: Maths
+  - college: Murray Edwards
+    crsid: va310
+    image: /img/vinisha.jpg
+    name: Vinisha Agrawal
+    position: Publicity Officer
+    subject: Medicine
+  - college: Emmanuel
+    crsid: dmk49
+    image: /img/dheer.jpg
+    name: Dheer Karia
+    position: Sponsorship Officer
+    subject: Economics
