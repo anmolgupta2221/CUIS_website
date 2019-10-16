@@ -1,18 +1,19 @@
 sponsors:
- - name: asiana
-   link: \-
-   image: img/1.png
- - name: goldstar
-   link: \-
-   image: img/2.gif
- - name: rass
-   link: \-
-   image: img/3.png
- - name: teachfirst
-   link: \-
-   image: img/4.png
- - name: studypool
-   link: \-
-   image: img/5.jpg
-
- 
+  - image: img/1.png
+    link: \-
+    name: asiana
+  - image: img/2.gif
+    link: \-
+    name: goldstar
+  - image: img/3.png
+    link: \-
+    name: rass
+  - image: img/4.png
+    link: \-
+    name: teachfirst
+  - image: img/5.jpg
+    link: \-
+    name: studypool
+  - image: /img/bt-logo-2.png
+    link: 'https://www.btapbaron.co.uk/'
+    name: B. Tap Baron
