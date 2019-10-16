@@ -1,4 +1,7 @@
 sponsors:
+  - image: /img/bt-logo-2.png
+    link: 'https://www.btapbaron.co.uk/'
+    name: B. Tap Baron
   - image: img/1.png
     link: \-
     name: asiana
@@ -14,6 +17,3 @@ sponsors:
   - image: img/5.jpg
     link: \-
     name: studypool
-  - image: /img/bt-logo-2.png
-    link: 'https://www.btapbaron.co.uk/'
-    name: B. Tap Baron
