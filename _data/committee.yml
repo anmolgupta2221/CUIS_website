@@ -1,61 +1,85 @@
 members:
-  - college: Fitzwilliam
-    crsid: sk994
-    image: /img/suchir-kohli.jpg
-    name: Suchir Kohli
+  - college: St John's
+    crsid: ns795
+    image: /img/nishant.png
+    name: Nishant Saxena
     position: President
     subject: Economics
-  - college: Emmanuel
-    crsid: ns758
-    image: /img/neelay.jpg
-    name: Neelay Sant
-    position: Vice-President
-    subject: Engineering
-  - college: Murray Edwards
-    crsid: ada33
-    image: /img/aarushi.jpg
-    name: Aarushi Ail
-    position: Secretary
-    subject: Medicine
-  - college: Gonville & Caius
-    crsid: es790
-    image: /img/eesha.jpeg
-    name: Eesha Sanghrajka
-    position: Treasurer
-    subject: Land Economy
-  - college: Queens'
-    crsid: dk579
-    image: /img/dhruv.jpg
-    name: Dhruv Kanabar
-    position: Culture and Education Officer
-    subject: Law
-  - college: Murray Edwards
-    crsid: gv288
-    image: /img/gayatri.jpg
-    name: Gayatri Vijapurkar
-    position: Sports Officer
-    subject: Medicine
-  - college: Gonville & Caius
-    crsid: mh957
-    image: /img/milan.jpg
-    name: Milan Hirji
-    position: Webmaster
-    subject: Natural Sciences
-  - college: Gonville & Caius
-    crsid: nb548
-    image: /img/nishant-square-1.jpg
-    name: Nishant Bommayya
-    position: Graduate Officer
-    subject: Maths
-  - college: Murray Edwards
-    crsid: va310
-    image: /img/vinisha.jpg
-    name: Vinisha Agrawal
-    position: Publicity Officer
-    subject: Medicine
-  - college: Emmanuel
-    crsid: dmk49
-    image: /img/dheer.jpg
-    name: Dheer Karia
-    position: Sponsorship Officer
+  - college: St John's
+    crsid: am2782
+    image: /img/amartya.png
+    name: Amartya Maheshwari
+    position: Vice President
     subject: Economics
+  - college: Murray Edwards
+    crsid: ac2289
+    image: /img/arvana.png
+    name: Arvana Chana
+    position: Secretary
+    subject: Law
+  - college: Robinson
+    crsid: es790
+    image: /img/blankcomm.png
+    name: Hilary Patankar
+    position: Treasurer
+    subject: Medicine
+  - college: Downing
+    crsid: vd301
+    image: /img/vidya.png
+    name: Vidya Divakaran
+    position: Publicity Officer
+    subject: Classics
+  - college: St John's
+    crsid: mv482
+    image: /img/mahin.png
+    name: Mahin Vekaria
+    position: Alumni and Sponsorship Officer
+    subject: Economics
+  - college: Selwyn
+    crsid: hpp26
+    image: /img/blankcomm.png
+    name: Hetsi Patel
+    position: Ents Officer
+    subject: Engineering
+  - college: St Catharine's
+    crsid: ss2661
+    image: /img/sohani.png
+    name: Sohani Shah
+    position: Ents Officer
+    subject: Economics
+  - college: Fitzwilliam
+    crsid: jt735
+    image: /img/jath.png
+    name: Jathavan Thevarajah
+    position: Logistics Officer
+    subject: Engineering
+  - college: Homerton
+    crsid: pd491
+    image: /img/priyanka.png
+    name: Priyanka Das
+    position: Culture and Education Officer
+    subject: Economics
+  - name: Rohit Kale
+    image: /img/rohit.png
+    college: Jesus
+    subject: Economics
+    position: Webmaster
+    crsid: ruk22
+  - name: Sanjan Das
+    image: /img/sanjan.png
+    college: Queens'
+    subject: Engineering
+    position: International and Graduate Officer
+    crsid: sd784
+  - name: Nikita Kamath
+    image: /img/nikita.png
+    college: St Catharine's
+    subject: Engineering
+    position: Access and Diversity Officer
+    crsid: nk515
+  - name: Dhruv Patel
+    image: /img/dhruv.png
+    college: Emmanuel
+    subject: Medicine
+    position: Welfare Officer
+    crsid: dgp32
