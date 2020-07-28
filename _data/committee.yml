@@ -5,81 +5,95 @@ members:
     name: Nishant Saxena
     position: President
     subject: Economics
+    year: Second Year
   - college: St John's
     crsid: am2782
     image: /img/amartya.png
     name: Amartya Maheshwari
     position: Vice President
     subject: Economics
+    year: Second Year
   - college: Murray Edwards
     crsid: ac2289
     image: /img/arvana.png
     name: Arvana Chana
     position: Secretary
     subject: Law
+    year: Second Year
   - college: Robinson
     crsid: es790
     image: /img/blankcomm.png
     name: Hilary Patankar
     position: Treasurer
     subject: Medicine
+    year: Second Year
   - college: Downing
     crsid: vd301
     image: /img/vidya.png
     name: Vidya Divakaran
     position: Publicity Officer
     subject: Classics
+    year: Second Year
   - college: St John's
     crsid: mv482
     image: /img/mahin.png
     name: Mahin Vekaria
     position: Alumni and Sponsorship Officer
     subject: Economics
+    year: Second Year
   - college: Selwyn
     crsid: hpp26
     image: /img/blankcomm.png
     name: Hetsi Patel
     position: Ents Officer
     subject: Engineering
+    year: Second Year
   - college: St Catharine's
     crsid: ss2661
     image: /img/sohani.png
     name: Sohani Shah
     position: Ents Officer
     subject: Economics
+    year: Second Year
   - college: Fitzwilliam
     crsid: jt735
     image: /img/jath.png
     name: Jathavan Thevarajah
     position: Logistics Officer
     subject: Engineering
+    year: Second Year
   - college: Homerton
     crsid: pd491
     image: /img/priyanka.png
     name: Priyanka Das
     position: Culture and Education Officer
     subject: Economics
+    year: Second Year
   - name: Rohit Kale
     image: /img/rohit.png
     college: Jesus
     subject: Economics
     position: Webmaster
     crsid: ruk22
+    year: Second Year
   - name: Sanjan Das
     image: /img/sanjan.png
     college: Queens'
     subject: Engineering
     position: International and Graduate Officer
     crsid: sd784
+    year: Fourth Year
   - name: Nikita Kamath
     image: /img/nikita.png
     college: St Catharine's
     subject: Engineering
     position: Access and Diversity Officer
     crsid: nk515
+    year: Third Year
   - name: Dhruv Patel
     image: /img/dhruv.png
     college: Emmanuel
     subject: Medicine
     position: Welfare Officer
     crsid: dgp32
+    year: Fourth Year
