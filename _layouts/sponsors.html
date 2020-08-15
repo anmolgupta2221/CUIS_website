@@ -4,8 +4,6 @@ layout: other_page
 {{ content }}
 {% for s in site.data.sponsors.sponsors %}
 <div class="col-lg-4 sponsorbox">
-    <a href="{{ s.link }}" target="_blank">
-        <img class="sponsorimg" src="{{ s.image }}" alt="{{ s.name }}">
-    </a>
+    <img class="sponsorimg" src="{{ s.image }}" alt="{{ s.name }}">
 </div>
 {% endfor %}
