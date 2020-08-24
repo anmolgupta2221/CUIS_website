@@ -15,12 +15,12 @@ about_us_text: >-
 
   We are open to all students, regardless of race or religion - all you need is an interest in all things Indian! From fascinating guest speakers, to exciting social events, we have something for everyone.
 join_us_text: >-
-  Join CU India Society today! Membership is open to anyone and will give you
+  Join India Society today! Membership is open to anyone and will give you
   discounts and priority
 
   tickets to many of our events including the Annual Ball, garden party, club nights and more. Our
 
-  membership will also allow you to benefit from exclusive selected partners (coming soon).</p>
+  membership will also allow you to benefit from exclusive selected partners (coming soon). Whilst we are working hard to create a new member signup system, if you would like to become a member, please get in touch with us via Messenger using the link below or DM us on Instagram.</p>
 constitution: img/constitution.pdf
 ---
 \-
