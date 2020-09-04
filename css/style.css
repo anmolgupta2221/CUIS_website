@@ -886,6 +886,15 @@ textarea {
 ====================================================================
 
  ***/
+@media screen and (max-width:900px) {
+    .page-middle-banner iframe {
+       max-width: 550px; 
+    }
+}
+
+.page-middle-banner iframe {
+       max-width: 850px; 
+}
 
 .page-middle-banner {
   background: url(../img/misc/mendhi.jpg) no-repeat center;
@@ -912,10 +921,6 @@ textarea {
   text-transform: uppercase;
   font-weight: 700;
   border-width: 1px;
-}
-
-.page-middle-banner iframe {
-   max-width: 550px; 
 }
 
 /*** 
