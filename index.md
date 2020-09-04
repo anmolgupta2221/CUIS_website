@@ -19,11 +19,6 @@ join_us_text: >-
   discounts and priority
 
   tickets to many of our events including the Annual Ball, garden party, club nights and more. Our membership will also allow you to benefit from exclusive selected partners (coming soon).</p>
-
-
-  <p style="margin-top:20px">
-
-  Whilst we are working hard to create a new member signup system, if you would like to become a member, please get in touch with us via Messenger by clicking "Become a Member" below or DM us on Instagram.</p>
 constitution: img/constitution.pdf
 ---
 \-
