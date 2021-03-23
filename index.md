@@ -19,6 +19,6 @@ join_us_text: >-
   discounts and priority
 
   tickets to many of our events including the Annual Ball, garden party, club nights, and more. Our membership will also allow you to benefit from exclusive selected partners (coming soon).</p>
-constitution: img/constitution.pdf
+constitution: /img/constitution-all-amendments-2020.pdf
 ---
 \-
