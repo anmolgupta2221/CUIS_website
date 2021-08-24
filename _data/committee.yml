@@ -27,19 +27,19 @@ members:
     position: Treasurer
     subject: Economics
     year: Second Year
-  - college: Corpus Christi
-    crsid: as3082
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
-    name: Anitta Sibin
-    position: Events Officer
-    subject: Law
-    year: Second Year
   - college: Fitzwilliam
     crsid: the28
     image: /img/happy-republic-day-india-background-vector-12680423.jpg
     name: Tejas Easwar
     position: Alumni and Sponsorship Officer
     subject: Medicine
+    year: Second Year
+  - college: Corpus Christi
+    crsid: as3082
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Anitta Sibin
+    position: Events Officer
+    subject: Law
     year: Second Year
   - college: Newnham
     crsid: sk2110
@@ -76,10 +76,3 @@ members:
     position: Access and Diversity Officer
     crsid: cks36
     year: Second Year
-  - name: India Soc
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
-    college: Cambridge
-    subject: India
-    year: "1917"
-    position: Society
-    crsid: bkk27
