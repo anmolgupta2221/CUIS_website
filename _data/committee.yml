@@ -50,7 +50,7 @@ members:
     year: Second Year
   - college: "Emmanuel "
     crsid: vm419
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/varun.png
     name: Varun Muralidharan
     position: Design and Publicity Officer
     subject: Natural Sciences
@@ -63,7 +63,7 @@ members:
     subject: MML
     year: Second Year
   - name: Tara Khanna
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/tara.png
     college: Jesus
     subject: Law
     position: International and Graduate Officer
