@@ -34,66 +34,45 @@ members:
     position: Events Officer
     subject: Law
     year: Second Year
-  - college: St John's
-    crsid: mv482
-    image: /img/mahin.png
-    name: Mahin Vekaria
-    position: Alumni and Sponsorship Officer
-    subject: Economics
-    year: Second Year
-  - college: Selwyn
-    crsid: hpp26
-    image: /img/blankcomm.png
-    name: Hetsi Patel
-    position: Ents Officer
-    subject: Engineering
-    year: Second Year
-  - college: St Catharine's
-    crsid: ss2661
-    image: /img/sohani.png
-    name: Sohani Shah
-    position: Ents Officer
-    subject: Economics
-    year: Second Year
   - college: Fitzwilliam
-    crsid: jt735
-    image: /img/jath.png
-    name: Jathavan Thevarajah
-    position: Logistics Officer
-    subject: Engineering
-    year: Second Year
-  - college: Homerton
-    crsid: pd491
-    image: /img/priyanka.png
-    name: Priyanka Das
-    position: Culture and Education Officer
-    subject: Economics
-    year: Second Year
-  - name: Rohit Kale
-    image: /img/rohit.png
-    college: Jesus
-    subject: Economics
-    position: Webmaster
-    crsid: ruk22
-    year: Second Year
-  - name: Sanjan Das
-    image: /img/sanjan.png
-    college: Queens'
-    subject: Engineering
-    position: International and Graduate Officer
-    crsid: sd784
-    year: Fourth Year
-  - name: Nikita Kamath
-    image: /img/nikita.png
-    college: St Catharine's
-    subject: Engineering
-    position: Access and Diversity Officer
-    crsid: nk515
-    year: Third Year
-  - name: Dhruv Patel
-    image: /img/dhruv.png
-    college: Emmanuel
+    crsid: the28
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Tejas Easwar
+    position: Alumni and Sponsorship Officer
     subject: Medicine
-    position: Welfare Officer
-    crsid: dgp32
-    year: Fourth Year
+    year: Second Year
+  - college: Newnham
+    crsid: sk2110
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Sanah Kashyap
+    position: Design and Publicity Officer
+    subject: History
+    year: Second Year
+  - college: "Emmanuel "
+    crsid: vm419
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Varun Muralidharan
+    position: Design and Publicity Officer
+    subject: Natural Sciences
+    year: Second Year
+  - college: St Johns
+    crsid: iad29
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Ishaan Dasgupta
+    position: Education Officer
+    subject: MML
+    year: Second Year
+  - name: Tara Khanna
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    college: Jesus
+    subject: Law
+    position: International and Graduate Officer
+    crsid: tk581
+    year: Second Year
+  - name: Channan Sangha
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    college: Downing
+    subject: History and Politics
+    position: Access and Diversity Officer
+    crsid: cks36
+    year: Second Year
