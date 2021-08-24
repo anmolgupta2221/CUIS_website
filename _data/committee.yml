@@ -1,38 +1,38 @@
 members:
-  - college: St John's
-    crsid: ns795
-    image: /img/nishant.png
-    name: Nishant Saxena
+  - college: Trinity College
+    crsid: bkk27
+    image: /img/india-soc-basma.png
+    name: Basma Khan
     position: President
     subject: Economics
     year: Second Year
-  - college: St John's
-    crsid: am2782
-    image: /img/amartya.png
-    name: Amartya Maheshwari
+  - college: Trinity
+    crsid: ps860
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Peter Simon
     position: Vice President
-    subject: Economics
-    year: Second Year
-  - college: Murray Edwards
-    crsid: ac2289
-    image: /img/arvana.png
-    name: Arvana Chana
-    position: Secretary
     subject: Law
     year: Second Year
-  - college: Robinson
-    crsid: es790
-    image: /img/hilary.png
-    name: Hilary Patankar
-    position: Treasurer
+  - college: Gonville & Caius
+    crsid: ak2308
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Aroun Kalyana
+    position: Secretary
     subject: Medicine
     year: Second Year
-  - college: Downing
-    crsid: vd301
-    image: /img/vidya.png
-    name: Vidya Divakaran
-    position: Publicity Officer
-    subject: Classics
+  - college: Homerton
+    crsid: rag51@cam.ac.uk
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Rohan Gopinath
+    position: Treasurer
+    subject: Economics
+    year: Second Year
+  - college: Corpus Christi
+    crsid: as3082
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Anitta Sibin
+    position: Events Officer
+    subject: Law
     year: Second Year
   - college: St John's
     crsid: mv482
