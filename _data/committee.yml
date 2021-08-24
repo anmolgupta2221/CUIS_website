@@ -13,19 +13,19 @@ members:
     position: Vice President
     subject: Law
     year: Second Year
-  - college: Homerton
-    crsid: rag51@cam.ac.uk
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
-    name: Rohan Gopinath
-    position: Treasurer
-    subject: Economics
-    year: Second Year
   - college: Gonville & Caius
     crsid: ak2308
     image: /img/happy-republic-day-india-background-vector-12680423.jpg
     name: Aroun Kalyana
     position: Secretary
     subject: Medicine
+    year: Second Year
+  - college: Homerton
+    crsid: rag51@cam.ac.uk
+    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    name: Rohan Gopinath
+    position: Treasurer
+    subject: Economics
     year: Second Year
   - college: Fitzwilliam
     crsid: the28
