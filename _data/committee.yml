@@ -8,42 +8,42 @@ members:
     year: Second Year
   - college: Trinity
     crsid: ps860
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Peter Simon
     position: Vice President
     subject: Law
     year: Second Year
   - college: Gonville & Caius
     crsid: ak2308
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Aroun Kalyana
     position: Secretary
     subject: Medicine
     year: Second Year
   - college: Homerton
     crsid: rag51@cam.ac.uk
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Rohan Gopinath
     position: Treasurer
     subject: Economics
     year: Second Year
   - college: Fitzwilliam
     crsid: the28
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Tejas Easwar
     position: Alumni and Sponsorship Officer
     subject: Medicine
     year: Second Year
   - college: Corpus Christi
     crsid: as3082
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Anitta Sibin
     position: Events Officer
     subject: Law
     year: Second Year
   - college: Newnham
     crsid: sk2110
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Sanah Kashyap
     position: Design and Publicity Officer
     subject: History
@@ -57,7 +57,7 @@ members:
     year: Second Year
   - college: St Johns
     crsid: iad29
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     name: Ishaan Dasgupta
     position: Education Officer
     subject: MML
@@ -70,7 +70,7 @@ members:
     crsid: tk581
     year: Second Year
   - name: Channan Sangha
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    image: /img/committee-bg.jpg
     college: Downing
     subject: History and Politics
     position: Access and Diversity Officer
