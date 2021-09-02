@@ -29,7 +29,7 @@ members:
     year: Second Year
   - college: Fitzwilliam
     crsid: the28
-    image: /img/committee-bg.jpg
+    image: /img/tejas.jpeg
     name: Tejas Easwar
     position: Alumni and Sponsorship Officer
     subject: Medicine
@@ -57,7 +57,7 @@ members:
     year: Second Year
   - college: St Johns
     crsid: iad29
-    image: /img/committee-bg.jpg
+    image: /img/ishaan.jpeg
     name: Ishaan Dasgupta
     position: Education Officer
     subject: MML
@@ -70,7 +70,7 @@ members:
     crsid: tk581
     year: Second Year
   - name: Channan Sangha
-    image: /img/committee-bg.jpg
+    image: /img/channan.jpeg
     college: Downing
     subject: History and Politics
     position: Access and Diversity Officer
