@@ -15,14 +15,14 @@ members:
     year: Second Year
   - college: Gonville & Caius
     crsid: ak2308
-    image: /img/committee-bg.jpg
+    image: /img/aroun.png
     name: Aroun Kalyana
     position: Secretary
     subject: Medicine
     year: Second Year
   - college: Homerton
     crsid: rag51@cam.ac.uk
-    image: /img/committee-bg.jpg
+    image: /img/rohan.png
     name: Rohan Gopinath
     position: Treasurer
     subject: Economics
