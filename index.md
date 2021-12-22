@@ -13,7 +13,7 @@ about_us_text: >-
 
   <p style="margin-top:20px">
 
-  We are open to all students, regardless of race or religion - all you need is an interest in all things Indian! From fascinating guest speakers, to exciting social events, we have something for everyone.non-profit,
+  We are open to all students, regardless of race or religion - all you need is an interest in all things Indian! From fascinating guest speakers, to exciting social events, we have something for everyone.
 join_us_text: >-
   Join India Society today! Membership is open to anyone and will give you
   discounts and priority
