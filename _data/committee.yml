@@ -39,7 +39,8 @@ members:
     image: /img/anitta.png 
     name: Anitta Sibin 
     position: Events Officer 
-    subject: Law year: Second Year
+    subject: Law 
+    year: Second Year
   - college: Newnham
     crsid: sk2110
     image: /img/committee-bg.jpg
