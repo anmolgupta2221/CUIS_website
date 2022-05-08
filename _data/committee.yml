@@ -1,85 +1,78 @@
 members:
   - college: Queens
     crsid: ak2380
-    image: /img/india-soc-basma.png
-    name: Basma Khan
+    image: /img/aditya.jpg
+    name: Aditya Krishna
     position: President
-    subject: Economics
-    year: Second Year
-  - college: Trinity
-    crsid: ps860
-    image: /img/untitled-design.png
-    name: Peter Simon
+    subject: Engineering
+    year: First Year
+  - college: Churchill
+    crsid: asr67
+    image: /img/anjali.jpg
+    name: Anjali Rao
     position: Vice President
-    subject: Law
-    year: Second Year
-  - college: Gonville & Caius
-    crsid: ak2308
-    image: /img/aroun.png
-    name: Aroun Kalyana
-    position: Secretary
     subject: Medicine
-    year: Second Year
-  - college: Homerton
-    crsid: rag51@cam.ac.uk
-    image: /img/rohan.png
-    name: Rohan Gopinath
+    year: First Year
+  - college: Christ's
+    crsid: pm749
+    image: /img/pranav.jpg
+    name: Pranav Madan
     position: Treasurer
     subject: Economics
-    year: Second Year
-  - college: Fitzwilliam
-    crsid: the28
-    image: /img/tejas.jpeg
-    name: Tejas Easwar
-    position: Alumni and Sponsorship Officer
+    year: First Year
+  - college: St Catharine's
+    crsid: sg2012
+    image: /img/shreya.jpg
+    name: Shreya Gopisri
+    position: Secretary
     subject: Medicine
-    year: Second Year
-  - college: Corpus Christi 
-    crsid: as3082 
-    image: /img/anitta.png 
-    name: Anitta Sibin 
-    position: Events Officer 
-    subject: Law 
-    year: Second Year
-  - college: Newnham
-    crsid: sk2110
-    image: /img/committee-bg.jpg
-    name: Sanah Kashyap
-    position: Design and Publicity Officer
-    subject: History
-    year: Second Year
-  - college: "Emmanuel "
-    crsid: vm419
-    image: /img/varun.png
-    name: Varun Muralidharan
-    position: Design and Publicity Officer
-    subject: Natural Sciences
-    year: Second Year
-  - college: St Johns
-    crsid: iad29
-    image: /img/ishaan.jpeg
-    name: Ishaan Dasgupta
-    position: Education Officer
-    subject: MML
-    year: Second Year
-  - name: Tara Khanna
-    image: /img/tara.png
-    college: Jesus
-    subject: Law
-    position: International and Graduate Officer
-    crsid: tk581
-    year: Second Year
-  - name: Channan Sangha
-    image: /img/channan.jpeg
-    college: Downing
-    subject: History and Politics
-    position: Access and Diversity Officer
-    crsid: cks36
-    year: Second Year
-  - name: Raghav Chandra
-    college: "Churchill "
-    subject: Natural Sciences
-    year: Third Year
+    year: First Year
+  - college: Churchill
+    crsid: ka552
+    image: /img/krish.jpg
+    name: Krish Agarwal
+    position: Design and Publicity
+    subject: Medicine
+    year: First Year
+  - name: Anmol Gupta
+    college: Churchill
+    subject: CompSci
+    year: First Year
     position: Webmaster
-    crsid: rc800
-    image: /img/happy-republic-day-india-background-vector-12680423.jpg
+    crsid: ag2221
+    image: /img/anmol.jpg
+  - college: St John's
+    crsid: nm767
+    image: /img/neha.jpg
+    name: Neha Manoj
+    position: Speakers and Education
+    subject: Law
+    year: First Year
+  - name: Khushi Krishna
+    image: /img/khushi.jpg
+    college: St John's
+    subject: Economics
+    position: Access and Welfare
+    crsid: kk754
+    year: First Year
+  - college: St Catharine's 
+    crsid: av606
+    image: /img/ammie.jpg
+    name: Ammie Vudathu
+    position: Events
+    subject: Theology
+    year: First Year
+  - college: Christ's
+    crsid: krr24
+    image: /img/kiran.jpg
+    name: Kiran Raja
+    position: Sponsorships
+    subject: Maths
+    year: First Year
+  - name: Preksha Jain
+    image: /img/preksha.jpg
+    college: Lucy Cavendish
+    subject: PBS
+    position: International and Graduates
+    crsid: pj365
+    year: First Year
