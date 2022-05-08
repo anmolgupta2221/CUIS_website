@@ -92,8 +92,8 @@ collections:
         file: _config.yml
         fields:
           - {label: 'Site Name', name: name, widget: hidden, default: "Cambridge University India Society"}
-          - {label: 'Author', name: author, widget: hidden, default: "Anik Roy"}
-          - {label: 'Author email', name: email, widget: hidden, default: anik545@gmail.com}
+          - {label: 'Author', name: author, widget: hidden, default: "Anmol Gupta"}
+          - {label: 'Author email', name: email, widget: hidden, default: anmolgupta0403@gmail.com}
           - {label: 'Exclude', name: exclude, widget: hidden, default: ['README.md', 'Gemfile.lock', 'Gemfile', vendor]}
           - {label: 'Favicon', name: favicon, widget: image}        
           - {label: 'Facebook Link', name: facebook, widget: string}
